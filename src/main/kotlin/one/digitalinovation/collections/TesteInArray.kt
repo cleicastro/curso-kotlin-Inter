@@ -14,7 +14,7 @@ fun main() {
 
     println("-------------------------")
     values.forEach {
-        println(Int)
+        println(it)
     }
 
     println("-------------------------")
